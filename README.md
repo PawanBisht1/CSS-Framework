@@ -21,7 +21,7 @@ Tired of wrestling with heavy CSS frameworks that slowed down my projects and in
 - 🔳 **Enhanced components** like buttons and cards with gradient, glass, and animated variants
 - 🛠️ **Flexible layout utilities** for flexbox, grid, and precise alignments
 
-- Live Demo - https://shadowmonarch-arch.github.io/Queryon-css-custom/
+- Live Demo - (https://pawanbisht1.github.io/CSS-Framework/)
 
 ## Installation
 
